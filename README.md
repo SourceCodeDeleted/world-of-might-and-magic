@@ -52,7 +52,3 @@ GamePlay
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/gameplay.PNG)
 
 
-
-Development
------------
-See the HACKING document in the source code root for information on how to compile.
