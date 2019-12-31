@@ -18,6 +18,7 @@ Getting Started
 4. Click advanced settings in the CMAKE configuration menu and change from NINJA to Visual Studio 2019
 5. Select the StartUp (Green Arrow) to be World Of Might and Magic.
 6. Click build All / Play to compile.
+7. Move required files to Might and Magic VII Game directory and run the executable.
 
 
 Images For Install
