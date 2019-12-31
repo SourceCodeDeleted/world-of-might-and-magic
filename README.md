@@ -20,16 +20,25 @@ Getting Started
 6. Click build All / Play to compile.
 
 
-
 Images For Install
 --------------
 
+<details><summary>Images</summary>
+<p>
+
+
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install1.PNG)
+Set up cache
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install2.png)
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install3.png)
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install4.png)
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/final.PNG)
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/gameplay.PNG)
+
+</p>
+</details>
+
+
 
 
 Development
