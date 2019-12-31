@@ -26,18 +26,30 @@ Images For Install
 <details><summary>Images</summary>
 <p>
 
+#### Set up cache
+![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install1.png)
 
-![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install1.PNG)
-Set up cache
+
+#### Select Start Launch
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install2.png)
+
+### wait until The cache has completed creating. (takes a couple of seconds)
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install3.png)
+
+### Make sure your CMAKE conf looks like this (notice no NINJA is being use only Visual Studio 2019)
+![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/final.png)
+
+### Click Build All
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install4.png)
-![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/final.PNG)
-![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/gameplay.PNG)
+
 
 </p>
 </details>
 
+
+GamePlay
+--------------
+![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/gameplay.PNG)
 
 
 
