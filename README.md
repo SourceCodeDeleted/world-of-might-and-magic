@@ -37,7 +37,7 @@ Images For Install
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install3.png)
 
 ### Make sure your CMAKE conf looks like this (notice no NINJA is being use only Visual Studio 2019)
-![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/final.png)
+![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/final.PNG)
 
 ### Click Build All
 ![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install4.PNG)
