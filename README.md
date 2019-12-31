@@ -2,6 +2,14 @@
 # Might and Magic Trilogy [![](https://img.shields.io/badge/chat-on%20discord-green.svg)](https://discord.gg/jRCyPtq)
 Might and Magic VI-VIII engine remake using original data & code
 
+![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/gamestart.PNG)
+
+
+
+
+
+
+
 Getting Started
 ---------------
 1. You will require a GoG or any older version of Might and Magic 7 installed for engine to guess game assets folder. You can override  assets/game path in launcher.
@@ -11,6 +19,17 @@ Getting Started
 5. Select the StartUp (Green Arrow) to be World Of Might and Magic.
 6. Click build All / Play to compile.
 
+
+
+Images For Install
+--------------
+
+![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install1.PNG)
+![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install2.PNG)
+![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install3.PNG)
+![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/install4.PNG)
+![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/final.PNG)
+![alt text](https://raw.githubusercontent.com/SourceCodeDeleted/world-of-might-and-magic/master/install_images/gameplay.PNG)
 
 
 Development
